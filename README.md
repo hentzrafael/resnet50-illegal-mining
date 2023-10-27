@@ -21,6 +21,7 @@ The project is organized as follows:
 
 - `data/`: This directory contains the dataset used for training and testing.
 - `notebooks/`: Jupyter notebooks for data preprocessing, model training, and evaluation.
+- `presentations/`: Contains files related to the project presentation.
 - `README.md`: The main documentation file.
 
 ## Usage
